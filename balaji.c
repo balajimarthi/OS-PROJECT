@@ -50,7 +50,7 @@ void *Thread3(){
 
 sem_wait(&s2);
 
-printf("Marthi. I am pursuing B.Tech in LPU.\n");
+printf("Marthi. I am pursuing B.Tech-H CSE in LPU.\n");
 
 }
 
