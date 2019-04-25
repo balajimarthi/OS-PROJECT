@@ -30,7 +30,7 @@ printf("\nHello I am");
 
 void *Thread3(){
 
-printf("Mathi. I am pursuing B.Tech in LPU.\n");
+printf("Marthi. I am pursuing B.Tech in LPU.\n");
 
 }
 
